@@ -1,3 +1,5 @@
+<img width="2110" height="626" alt="Keybord desain sendiri versi 2" src="https://github.com/user-attachments/assets/0490ba7e-cd1e-4802-a466-6be6cba798db" />
+
 # Open-Source Low-Profile Productivity Keyboard ⌨️🚀
 
 A custom, low-profile mechanical keyboard designed specifically for creators, video editors, designers, and heavy document workers. Built on top of open-source firmware (KMK / QMK / ZMK) with native multi-OS support.
